@@ -54,5 +54,13 @@ h2
 {
 text-transform: capitalize;
 text-shadow: 0.1em 0.1em 0.05em #333 ;
+color: #e6e6e6;
+}
+
+p
+{
+background-size: 750px;
+text-align: center;
+margin-inline: 10px;
 }
 
